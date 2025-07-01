@@ -111,3 +111,12 @@
 - MySQL 8.0+
 - Redis 6.0+
 - Maven 3.6+
+
+
+部分截图：
+![image](https://github.com/user-attachments/assets/d47b9b6c-8417-450a-bb79-831a75133d3d)
+![image](https://github.com/user-attachments/assets/ed7b8b6d-9557-429d-ad21-960bbcbf807e)
+![image](https://github.com/user-attachments/assets/a58bf545-24ff-42ab-9351-96474106e5ca)
+![image](https://github.com/user-attachments/assets/33742c76-ed15-49ed-ac39-56e368520a57)
+![image](https://github.com/user-attachments/assets/9891b515-6c30-40d5-a40c-e3e8fe02cfc6)
+![image](https://github.com/user-attachments/assets/05e7a44a-d0d8-473c-b01b-34e3527781f4)
